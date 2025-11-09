@@ -1,0 +1,8 @@
+using System.Reflection;
+
+[assembly: AssemblyTitle("MegaBonk Battle Arena")]
+[assembly: AssemblyDescription("Epic turn-based battle game!")]
+[assembly: AssemblyCompany("Tezas Studio")]
+[assembly: AssemblyProduct("MegaBonk Battle Arena")]
+[assembly: AssemblyCopyright("© 2025 Tezas")]
+[assembly: AssemblyVersion("1.0.0.0")]

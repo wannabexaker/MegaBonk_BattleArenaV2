@@ -1,0 +1,28 @@
+C:\Projects\MegaBonk Battle Arena\bin\Debug\net8.0\MegaBonk Battle Arena.exe
+C:\Projects\MegaBonk Battle Arena\bin\Debug\net8.0\MegaBonk Battle Arena.deps.json
+C:\Projects\MegaBonk Battle Arena\bin\Debug\net8.0\MegaBonk Battle Arena.runtimeconfig.json
+C:\Projects\MegaBonk Battle Arena\bin\Debug\net8.0\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena\bin\Debug\net8.0\MegaBonk Battle Arena.pdb
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.AssemblyInfoInputs.cache
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.AssemblyInfo.cs
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.csproj.CoreCompileInputs.cache
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\refint\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.pdb
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\MegaBonk Battle Arena.genruntimeconfig.cache
+C:\Projects\MegaBonk Battle Arena\obj\Debug\net8.0\ref\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena V2\bin\Debug\net8.0\MegaBonk Battle Arena.exe
+C:\Projects\MegaBonk Battle Arena V2\bin\Debug\net8.0\MegaBonk Battle Arena.deps.json
+C:\Projects\MegaBonk Battle Arena V2\bin\Debug\net8.0\MegaBonk Battle Arena.runtimeconfig.json
+C:\Projects\MegaBonk Battle Arena V2\bin\Debug\net8.0\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena V2\bin\Debug\net8.0\MegaBonk Battle Arena.pdb
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.AssemblyInfoInputs.cache
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.AssemblyInfo.cs
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.csproj.CoreCompileInputs.cache
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\refint\MegaBonk Battle Arena.dll
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.pdb
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\MegaBonk Battle Arena.genruntimeconfig.cache
+C:\Projects\MegaBonk Battle Arena V2\obj\Debug\net8.0\ref\MegaBonk Battle Arena.dll

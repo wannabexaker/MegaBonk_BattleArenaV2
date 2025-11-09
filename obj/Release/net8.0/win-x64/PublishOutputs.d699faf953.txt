@@ -1,0 +1,2 @@
+C:\Projects\MegaBonk Battle Arena V2\bin\Release\net8.0\win-x64\publish\MegaBonk Battle Arena.pdb
+C:\Projects\MegaBonk Battle Arena V2\bin\Release\net8.0\win-x64\publish\MegaBonk Battle Arena.exe
