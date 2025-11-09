@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\MegaBonk Battle Arena V2\\MegaBonk Battle Arena.csproj": {}
+    "C:\\Projects\\MegaBonk_BattleArenaV2\\MegaBonk Battle Arena.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MegaBonk Battle Arena V2\\MegaBonk Battle Arena.csproj": {
+    "C:\\Projects\\MegaBonk_BattleArenaV2\\MegaBonk Battle Arena.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MegaBonk Battle Arena V2\\MegaBonk Battle Arena.csproj",
+        "projectUniqueName": "C:\\Projects\\MegaBonk_BattleArenaV2\\MegaBonk Battle Arena.csproj",
         "projectName": "MegaBonk Battle Arena",
-        "projectPath": "C:\\Projects\\MegaBonk Battle Arena V2\\MegaBonk Battle Arena.csproj",
+        "projectPath": "C:\\Projects\\MegaBonk_BattleArenaV2\\MegaBonk Battle Arena.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MegaBonk Battle Arena V2\\obj\\",
+        "outputPath": "C:\\Projects\\MegaBonk_BattleArenaV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
