@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "MegaBonk_BattleArenaV2"
+abstract: "Battle arena game project and experiments"
+authors:
+  - name: "Ioannis"
+    alias: "wannabexaker"
+    website: "https://github.com/wannabexaker"
+repository-code: "https://github.com/wannabexaker/MegaBonk_BattleArenaV2"
+url: "https://github.com/wannabexaker/MegaBonk_BattleArenaV2"
+license: Apache-2.0
+date-released: "2025-11-09"
+keywords:
+  - "game-dev, csharp, unity"
+  - "csharp, unity"
